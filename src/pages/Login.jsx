@@ -101,7 +101,6 @@ const Login = () => {
             padding: 4,
             width: "100%",
             maxWidth: 400,
-            backdropFilter: "blur(10px)",
             backgroundColor: "rgba(255, 255, 255, 0.8)",
             borderRadius: 5,
             boxShadow: "0px 4px 30px rgba(0, 0, 0, 0.2)",
